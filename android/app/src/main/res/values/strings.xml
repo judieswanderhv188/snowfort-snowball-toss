@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snowfort Snowball Toss</string>
+    <string name="app_title">SNOWFORT TOSS</string>
+    <string name="splash_tagline">AIM HIGH. THROW TRUE.</string>
+    <string name="loading">LOADING</string>
+
+    <string name="play">PLAY</string>
+    <string name="throw_action">THROW</string>
+    <string name="triple_throw">TRIPLE THROW</string>
+    <string name="play_again">THROW AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="fort">FORT</string>
+    <string name="mittens">MITTENS</string>
+    <string name="save_fort">SAVE FORT</string>
+    <string name="buy">BUY</string>
+    <string name="equip">EQUIP</string>
+    <string name="resume">RESUME</string>
+    <string name="paused">PAUSED</string>
+    <string name="pause_message">THE YARD WAITS. TAKE YOUR TIME.</string>
+    <string name="settings">SETTINGS</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_message">THIS CLEARS STARS, YARDS AND YOUR FORT.</string>
+    <string name="confirm">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="menu_tagline">YARD %1$d OF 60 - KNOCK THEM ALL DOWN</string>
+    <string name="yard_label">YARD %1$d</string>
+    <string name="yard_progress">YARD %1$d OF %2$d</string>
+    <string name="game_hint">DRAG BACK TO AIM - RELEASE TO THROW</string>
+    <string name="fort_builder">FORT BUILDER</string>
+    <string name="fort_hint">PICK A PIECE THEN TAP A SLOT</string>
+    <string name="mitten_shop">MITTEN SHOP</string>
+    <string name="shop_hint">SPEND EARNED STARS ON KNITTED MITTENS</string>
+
+    <string name="snowballs_label">SNOWBALLS</string>
+    <string name="hits_label">HITS</string>
+    <string name="frost_label">FROST</string>
+    <string name="triple_ready">TRIPLE READY</string>
+    <string name="accuracy_label">ACCURACY</string>
+    <string name="stars_label">STARS</string>
+    <string name="best_stars_label">BEST STARS</string>
+    <string name="best_accuracy_label">BEST ACCURACY</string>
+    <string name="total_stars">TOTAL STARS %1$d</string>
+
+    <string name="yard_cleared">YARD CLEARED</string>
+    <string name="out_of_snowballs">OUT OF SNOWBALLS</string>
+    <string name="hits_value">%1$d/%2$d</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="plus_value">+%1$d</string>
+
+    <string name="sound_label">SOUND</string>
+    <string name="haptics_label">HAPTICS</string>
+    <string name="assist_label">ARC ASSIST</string>
+    <string name="about_label">OFFLINE PLAY ONLY</string>
+
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_owned">OWNED</string>
+    <string name="state_equipped">EQUIPPED</string>
+    <string name="state_not_enough">NOT ENOUGH STARS</string>
+
+    <string name="cd_settings">Settings</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_target">Snowman target</string>
+    <string name="cd_logo">Snowfort Toss emblem</string>
+    <string name="cd_trophy">Winter trophy</string>
+</resources>

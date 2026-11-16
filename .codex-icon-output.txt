@@ -1,0 +1,1 @@
+Saved `icon_1024.png` in the current directory. The native generator returned 1254×1254 despite requesting 1024×1024. I left it unresized, so the exact size requirement remains unmet.
